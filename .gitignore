@@ -1,3 +1,10 @@
+# File Types to ignore
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.pptx
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
